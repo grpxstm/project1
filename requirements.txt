@@ -7,3 +7,4 @@ deta==1.1.0
 python-dotenv==0.21.0
 pandas==1.3.5
 pip==23.0
+keras==2.4.3
